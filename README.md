@@ -1,2 +1,2 @@
 # Study_SincWeb
-link:-https://studysinc.netlify.app/
+link:-[Click Here](https://studysinc.netlify.app/)
